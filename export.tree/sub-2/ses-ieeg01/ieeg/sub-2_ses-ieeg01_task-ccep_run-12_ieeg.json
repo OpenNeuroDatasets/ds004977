@@ -1,0 +1,20 @@
+{
+	"TaskName": "Cortico Cortical Evoked Potentials",
+	"SamplingFrequency": 4800,
+	"PowerLineFrequency": 60,
+	"SoftwareFilters": "n/a",
+	"HardwareFilters": {
+		"HighpassFilter": {
+			"CutoffFrequency": "n/a"
+		},
+		"LowpassFilter": {
+			"CutoffFrequency": 2130
+		}
+	},
+	"RecordingDuration": 381.05,
+	"RecordingType": "continuous",
+	"iEEGReference": "intracranial",
+        "Manufacturer": "g.Tec",
+	"ManufacturersModelName": "g.HIamp",
+        "ElectricalStimulation": true
+}

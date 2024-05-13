@@ -1,0 +1,8 @@
+{
+    "IntendedFor": "/derivatives/acpcVistasoft/sub-4/mri/aparc.a2009s+aseg.nii.gz" ,
+    "iEEGCoordinateSystem": "ACPC",
+    "iEEGCoordinateUnits": "mm",
+    "iEEGCoordinateSystemDescription": "ACPC using VISTASOFT software repository", 
+    "iEEGCoordinateProcessingDescription": "sEEG electrode positions from Curry",
+    "iEEGCoordinateProcessingReference": "https://github.com/vistalab/vistasoft"
+}
